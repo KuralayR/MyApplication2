@@ -15,7 +15,7 @@
             android:layout_height="wrap_content"
             android:ems="10"
             android:inputType="textPersonName"
-            android:text="Name"
+            android:hint = "Add text"
             tools:layout_editor_absoluteX="-68dp"
             tools:layout_editor_absoluteY="133dp" />
 
@@ -23,7 +23,7 @@
             android:id="@+id/button"
             android:layout_width="160dp"
             android:layout_height="wrap_content"
-            android:text="Button" />
+            android:text="Add" />
     </LinearLayout>
 
         <ListView
